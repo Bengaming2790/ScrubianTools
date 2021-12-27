@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "scrubtools:ruby"
+    },
+    "addition": {
+        "item": "minecraft:black_concrete"
+    },
+    "result": {
+        "item": "scrubtools:smile_fragment"
+    }
+}

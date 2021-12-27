@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "scrubtools:smile_fragment"
+        },
+        {
+            "item": "scrubtools:smile_fragment"
+        }
+    ],
+    "result": {
+        "item": "scrubtools:whole_smile",
+        "count": 1
+    }
+}

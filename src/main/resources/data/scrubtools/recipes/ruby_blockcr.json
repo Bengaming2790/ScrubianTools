@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "scrubtools:ruby"
+        },
+        {
+            "item": "scrubtools:ruby"
+        },
+        {
+            "item": "scrubtools:ruby"
+        },
+        {
+            "item": "scrubtools:ruby"
+        }
+    ],
+    "result": {
+        "item": "scrubtools:ruby_block",
+        "count": 1
+    }
+}

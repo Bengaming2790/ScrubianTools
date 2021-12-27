@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "scrubtools:block/ruby_block" }
+  }
+}
